@@ -12,6 +12,7 @@
     "start": "next start"
   },
   "devDependencies": {
+    "@types/node": "^22.9.0",
     "@types/react": "^18.2.0",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.47",
